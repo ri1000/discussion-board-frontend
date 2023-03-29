@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#routify-app{
+    background-color: rgb(228, 223, 223);
+}
